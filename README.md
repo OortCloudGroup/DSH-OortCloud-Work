@@ -1,86 +1,67 @@
-<h1 align="center">OortCodex Desktop</h1>
+<h1 align="center">DSH For OortCloud Work</h1>
 
-<p align="center"><strong>A coding agent workbench for everyone</strong></p>
-<p align="center"><em>The power to turn ideas into reality belongs to everyone.</em></p>
+<p align="center"><strong>Work tasks, done automatically</strong></p>
+<p align="center"><em>Hand your work tasks to an agent — your existing web systems stay exactly as they are.</em></p>
 
 <p align="center">
   English | <a href="README.zh-CN.md">简体中文</a>
 </p>
 
-![OortCodex Desktop](assets/aiagent.jpg)
+![DSH For OortCloud Work](assets/aiagent.jpg)
 
 ## 📖 Overview
 
-OortCodex Desktop is a coding agent workbench built for everyone. It hands the entire path from "describing what you want" to "having something that actually runs" — reading code, researching, editing files, running commands, executing tests, debugging — to an agent that works alongside you.
+DSH For OortCloud Work is a work-task automation desktop program for OortCloud Work, built on DeepSeek Harness Desktop (DSH). Describe a work task in natural language, and the agent understands the page, plans the steps, performs the operations, and reports back. It replaces traditional RPA scenarios with agentic automation, with a particular focus on automating operations on existing ("legacy") web systems — no rebuild, no migration, and no API retrofit required.
 
-You do not have to become a programmer first. If you can explain the idea clearly, the agent helps you build it.
+It is also OortCloud's enterprise-grade scenario-based groupware: one desktop carries 70+ OortCloud service scenarios and lets you switch between them at any time. This is OortCloud's most core, most critical, and most exciting desktop product.
 
-> **The power to turn ideas into reality belongs to everyone.**
+In addition, every product in the OortCodex series ships with pioneering multi-environment sign-in technology: the China site and the international site share one program, so two separate builds never need to be published.
 
-## ✨ Why "for everyone"
+> **Work tasks, done automatically.**
 
-- **Natural language is the interface.** Describe your goal in plain words; the agent plans the steps, does the work, and reports back.
-- **One brain, three interfaces.** The desktop app, the browser workbench, and the terminal share the same Agent runtime, the same workspace, and the same account — switch anytime without losing context.
-- **From an idea to a real deliverable.** It doesn't just produce code snippets — it reads docs, calls external tools, runs verification, and hands you something usable.
-- **Professionals are not shortchanged.** Multiple workspaces, parallel sessions, a plugin marketplace, MCP, hooks, and remote development are all there.
+## ✨ Highlights
 
-## 🧩 Core Capabilities
+- **Natural language is the task.** Describe the work in plain words; the agent plans the steps, does the work, and reports back.
+- **A replacement for traditional RPA.** No recorded scripts, no fragile selectors or fixed coordinates — the agent adapts when the interface changes and keeps going.
+- **Legacy-friendly by design.** Automate the web systems you already run, without touching a line of their code, so existing investments keep paying off.
+- **Enterprise groupware.** One desktop carries 70+ OortCloud service scenarios — switch anytime, use what you need.
+- **Multi-environment sign-in.** One program for both the China and international sites: no duplicate releases, no double maintenance.
 
-### 🤖 The coding agent
+## 🤖 Agentic automation: a replacement for traditional RPA
 
-- Understands the whole project, breaks work into steps, and plans multi-step tasks instead of answering a single question.
-- Reads and writes files, runs commands, executes tests, locates and fixes problems.
-- Sessions can be resumed, forked, and run in parallel, so long tasks keep their context.
+Traditional RPA relies on recorded scripts, selectors, and fixed coordinates: when the interface changes, the script breaks, and someone has to maintain it. DSH For OortCloud Work hands the task to an agent — it understands the semantics of the page, plans and executes multi-step operations on its own, and hands the result back to you.
 
-### 🖥 One brain, three interfaces
+| Dimension         | Traditional RPA                        | DSH For OortCloud Work                  |
+| ----------------- | -------------------------------------- | ---------------------------------------- |
+| Task definition   | Recorded actions / written scripts     | Describe the task in natural language    |
+| Page understanding| Selectors and fixed coordinates        | The agent understands page semantics     |
+| Interface changes | Scripts break; re-recording required   | Adapts and keeps going                   |
+| Applicable systems| Usually requires system changes         | Especially strong on existing (legacy) web systems |
+| Maintenance       | Dedicated script maintainers           | The task is the description — edit and rerun |
 
-| Interface      | Form                                            | Best for                                                        |
-| -------------- | ----------------------------------------------- | --------------------------------------------------------------- |
-| Desktop app    | Electron client, ready out of the box           | Most users; those who want a full GUI and local file access     |
-| Browser workbench | Web client hosted by a local backend          | Working from any device, right in the browser                   |
-| Terminal UI    | The `oortcodex` command line (TUI)              | Developers who live in the shell, plus automation and scripting |
+### Working with existing web systems
 
-All three share the same Agent runtime, the same workspace, and the same account — start anywhere and just keep going.
+A company's most valuable business logic often lives in web systems that have been running for years. DSH For OortCloud Work does not ask you to rebuild, migrate, or refactor those systems — the agent simply operates on the existing pages. The value of your legacy systems carries on, and automation arrives on day one.
 
-### 🔌 Plugins and extensibility
+## 🏢 Enterprise scenario-based groupware
 
-A plugin is the unit of extension in OortCodex, and one plugin can ship skills, custom commands, MCP servers, and hooks at once:
+- One desktop carries **70+ OortCloud service scenarios**, switchable at any time.
+- It is both a work-task automation tool and the unified desktop entry to OortCloud's scenario-based services.
+- It is OortCloud's **most core, most critical, and most exciting** desktop product.
 
-- **Official marketplace**: built-in plugins plus SHA-256 verified CDN plugins, in one catalog with one-click install and update.
-- **Personal sources**: git / GitHub / URL / local directory / inline plugins — bring your own tooling.
-- **Ready to use**: Browser Use, Document Skills, Skill Creator, and OortCodex Guide are enabled by default.
-- **Enable on demand**: iOS Simulator, Android Emulator, legacy session migration, and more stay off until you need them.
+## 🌏 Multi-environment sign-in technology
 
-### 🧠 MCP and hooks
-
-- **MCP**: supports `stdio`, `http`, and `sse` servers; tools are exposed to the model as `mcp__<server>__<tool>`.
-- **Hooks**: inject your own rules at key moments — session start, prompt submission, before and after tool use, permission requests, and turn completion. Hooks can add context or block a dangerous action outright.
-
-### 🌐 Remote and collaboration
-
-- **Remote workspaces**: connect to projects over SSH / WSL and work on remote code from the local interface.
-- **Mobile remote control**: your phone connects to the workbench already running on your desktop and reuses the same session runtime — pick up where you left off.
-
-### 💳 Models and accounts
-
-- Sign in with a single OortCloud account, shared between the desktop app and the command line.
-- Browse and switch models; usage, subscription, and credits are all in one place.
-
-### 🛡 Security and control
-
-- Tool calls require authorization, and dangerous actions can be blocked by rules.
-- Tiered logging: high-frequency diagnostics are never written to disk in production.
-- Credentials and real user data never appear in logs, examples, or commits.
+- Pioneered across the OortCodex product series.
+- The China site and the international site share one program — just pick the environment at sign-in.
+- No more developing, testing, and publishing two separate programs for two sites.
 
 ## 🚀 Quick Start
 
 ### Download
 
-Get the installer for your platform from [Releases](https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases):
+Get the installer from [Releases](https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases):
 
 - **Windows**: `.exe` installer
-- **macOS**: `.dmg` disk image
-- **Linux**: platform package
 
 ### Auto-update
 
@@ -88,30 +69,14 @@ The client reads [latest.json](latest.json) at the repository root to obtain the
 
 ### First run
 
-1. Launch OortCodex Desktop.
-2. Sign in with your OortCloud account (shared with the command line).
-3. Open or create a workspace: a local directory, or a remote project over SSH / WSL.
-4. Describe what you want in natural language and let the agent get to work.
-
-## ⌨️ Command line
-
-The command-line distribution starts with one `oortcodex` command: no arguments opens the terminal UI, and `--web` starts the browser workbench.
-
-```bash
-oortcodex                  # Start the terminal UI
-oortcodex --web            # Start the browser workbench
-oortcodex login oortcloud  # Sign in to OortCloud
-```
-
-## 📦 One-click CLI installation
-
-The project provides one-click installers for bash, PowerShell, and cmd. By default, they install the latest `oortcodex-cli` package from npm.
-See the [CLI installation guide](CLI_INSTALL.md) for prerequisites, commands, version selection, and troubleshooting.
+1. Launch DSH For OortCloud Work.
+2. Sign in with your OortCloud account and choose the China or international environment.
+3. Switch to the scenario you need among the 70+ service scenarios.
+4. Describe your work task in natural language and let the agent operate the web system for you.
 
 ## 🛠 Tech stack
 
-Electron · React 19 · TypeScript · Node.js 24 · pnpm monorepo, across Windows / macOS / Linux.
-Plugins, MCP, hooks, multi-workspace sessions, and remote connections are all built on one shared protocol.
+Built on DeepSeek Harness Desktop (DSH): an Electron desktop client, an agent runtime, and built-in browser operation — task understanding, step planning, and page execution close the loop in one framework.
 
 ## 🤝 Contributing
 
@@ -127,7 +92,7 @@ All forms of contribution are welcome:
 
 If you run into an issue or have an improvement in mind, please open an issue on GitHub / GitCode.
 
-### Quick script to update latest.json
+## 🔧 Quick script to update latest.json
 
 Run the following in PowerShell:
 
@@ -145,8 +110,8 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 🙏 Acknowledgements
 
-Thanks to every developer who has contributed to OortCodex Desktop.
+Thanks to every developer who has contributed to DSH For OortCloud Work.
 
 ### Tagline
 
-**OortCodex Desktop — the power to turn ideas into reality belongs to everyone.**
+**DSH For OortCloud Work — work tasks, done automatically.**
