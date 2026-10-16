@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.0.0/dsh-for-oortcloud-work.exe",
-  "name": "1.0.0",
-  "version": "1.0.0",
-  "productVersion": "1.0.0.0",
-  "hash": "9024788c26da1d1ec931649223f520d0d9a22d8f",
-  "timestamp": 1792152720639,
-  "sha256hash": "b9530d0e2a4fca2f5b451a363f5a9d4e7b1adff6caedbb7eaca64eb60f369738",
-  "logs": "## 1.0.0 \n\n -调整IM的sdk加载方式  \n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.0.1/dsh-for-oortcloud-work.exe",
+  "name": "1.0.1",
+  "version": "1.0.1",
+  "productVersion": "1.0.1.0",
+  "hash": "e032dfb8dc92a3d7a5d80529c8068397c9f9f636",
+  "timestamp": 1792157460953,
+  "sha256hash": "06f769cf21cf88ef31de679a72c3a0cee07e5566ddfadd5a7452dc072046aabf",
+  "logs": "## 1.0.1 \n\n -调整IM的sdk加载方式  \n\n -修复一些bug"
 }
