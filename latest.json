@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.0.7/OortCodex-Desktop.exe",
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.0.0/OortCodex-Desktop.exe",
   "name": "1.0.0",
   "version": "1.0.0",
   "productVersion": "1.0.0.0",
-  "hash": "9d233d69a8b3e56efb9f0288ee797563d75b7eb7",
-  "timestamp": 1791952490993,
-  "sha256hash": "d67c97f6ceac2b15896bad47062fb6ed8a7fff4e2af7907a96ef0ca1d5858326",
-  "logs": "## 1.0.0 \n\n -修复无法选择模型供应商的问题  \n\n -修复一些bug"
+  "hash": "dceeb8aacb15276b5931611203961ba0aa3af137",
+  "timestamp": 1792130166919,
+  "sha256hash": "4da7fd6492c3a7423f5b7cdcc91394ebfb0394ffe9fe9648632f24fe00b1117e",
+  "logs": "## 1.0.0 \n\n -DSH OortCloud Work 第一个版本  \n\n -修复一些bug"
 }

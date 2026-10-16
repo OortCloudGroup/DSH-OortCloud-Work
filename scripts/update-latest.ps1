@@ -2,7 +2,7 @@ param(
     [Parameter(Mandatory = $true)]
     [string]$Version,
 
-    [string]$ExePath = "G:\lanjian\nginx\html_88_56\OortCodex-Desktop.exe",
+    [string]$ExePath = "G:\lanjian\nginx\html_88_56\dsh-for-oortcloud-work.exe",
 
     [string]$JsonPath = "latest.json"
 )
