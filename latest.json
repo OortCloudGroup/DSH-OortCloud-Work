@@ -3,8 +3,8 @@
   "name": "1.0.0",
   "version": "1.0.0",
   "productVersion": "1.0.0.0",
-  "hash": "b24ed03b0281d15eba8f04d48840660102918576",
-  "timestamp": 1792148313987,
-  "sha256hash": "9eaa72e277e665a5183196e2d7e530da80166732757e6537873193661dbc89ae",
+  "hash": "9024788c26da1d1ec931649223f520d0d9a22d8f",
+  "timestamp": 1792152720639,
+  "sha256hash": "b9530d0e2a4fca2f5b451a363f5a9d4e7b1adff6caedbb7eaca64eb60f369738",
   "logs": "## 1.0.0 \n\n -调整IM的sdk加载方式  \n\n -修复一些bug"
 }
