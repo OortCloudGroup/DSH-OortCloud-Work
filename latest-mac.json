@@ -1,0 +1,11 @@
+{
+  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.0.5/dsh-for-oortcloud-work.dmg",
+  "url-x64": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.0.5/dsh-for-oortcloud-work-x64.dmg",
+  "name": "1.0.5",
+  "version": "1.0.5",
+  "productVersion": "1.0.5.0",
+  "hash": "dba173f72af881ff21f596a9627d04a1a4ba55cf",
+  "timestamp": 1793343836218,
+  "sha256hash": "bd8a2d36cce55ce7b5550c7362f3f1f44ea67d030daf1f40a9446abf56f55930",
+  "logs": "## 1.0.5 \n\n -添加自定义环境功能  \n\n -修复一些bug "
+}
