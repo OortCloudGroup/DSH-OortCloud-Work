@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.0.5/dsh-for-oortcloud-work.exe",
-  "name": "1.0.5",
-  "version": "1.0.5",
-  "productVersion": "1.0.5.0",
-  "hash": "8ecd2e1531fc652d3dad0361a44a0a5dc3329f40",
-  "timestamp": 1793262476061,
-  "sha256hash": "9c5c73b6a09a9efcb1df01a4385f02e9e230c4e8e729d9eef41bf210fddec60e",
-  "logs": "## 1.0.5 \n\n -添加自定义地址支持 \n\n -新增心跳机制  \n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.0.6/dsh-for-oortcloud-work.exe",
+  "name": "1.0.6",
+  "version": "1.0.6",
+  "productVersion": "1.0.6.0",
+  "hash": "e2763b83fa30dc6ab4bb889c6432e9a68eadf2b0",
+  "timestamp": 1793670571442,
+  "sha256hash": "4dd3451f6aa73028c9a6333cc4a3379c1df0bd724f2c7224ff166cd6b382c6a2",
+  "logs": "## 1.0.6 \n\n -订阅模块：完善资源包与会员卡功能 \n\n -修复个人订阅名称误显示为 ID  \n\n -修复一些bug"
 }
