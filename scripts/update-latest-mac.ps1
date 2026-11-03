@@ -42,6 +42,7 @@ try {
 
     # 更新发布信息字段
     $latest.url = $latest.url -replace "/download/v[^/]+/", "/download/v$Version/"
+    $latest.'url-x64' = $latest.'url-x64' -replace "/download/v[^/]+/", "/download/v$Version/"
     $latest.name = $Version
     $latest.version = $Version
     $latest.productVersion = $productVersion
