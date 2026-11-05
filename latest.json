@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.1.7/dsh-for-oortcloud-work.exe",
-  "name": "1.1.7",
-  "version": "1.1.7",
-  "productVersion": "1.1.7.0",
+  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.0.7/dsh-for-oortcloud-work.exe",
+  "name": "1.0.7",
+  "version": "1.0.7",
+  "productVersion": "1.0.7.0",
   "hash": "7a0f714c471af9bae24e15d2a12c29ba3e96aece",
-  "timestamp": 1793872811078,
+  "timestamp": 1793873526788,
   "sha256hash": "53c0f40d5a6d91d7508c67097d160586f8d8cf4eaacfb653574ff10dd1766b0d",
   "logs": "## 1.0.7 \n\n -新增插件技能专家功能  \n\n -修复一些bug"
 }
