@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.0.6/dsh-for-oortcloud-work.exe",
-  "name": "1.0.6",
-  "version": "1.0.6",
-  "productVersion": "1.0.6.0",
-  "hash": "e2763b83fa30dc6ab4bb889c6432e9a68eadf2b0",
-  "timestamp": 1793670571442,
-  "sha256hash": "4dd3451f6aa73028c9a6333cc4a3379c1df0bd724f2c7224ff166cd6b382c6a2",
-  "logs": "## 1.0.6 \n\n -订阅模块：完善资源包与会员卡功能 \n\n -修复个人订阅名称误显示为 ID  \n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.1.7/dsh-for-oortcloud-work.exe",
+  "name": "1.1.7",
+  "version": "1.1.7",
+  "productVersion": "1.1.7.0",
+  "hash": "7a0f714c471af9bae24e15d2a12c29ba3e96aece",
+  "timestamp": 1793872811078,
+  "sha256hash": "53c0f40d5a6d91d7508c67097d160586f8d8cf4eaacfb653574ff10dd1766b0d",
+  "logs": "## 1.0.7 \n\n -新增插件技能专家功能  \n\n -修复一些bug"
 }
