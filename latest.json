@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.0.7/dsh-for-oortcloud-work.exe",
-  "name": "1.0.7",
-  "version": "1.0.7",
-  "productVersion": "1.0.7.0",
-  "hash": "7a0f714c471af9bae24e15d2a12c29ba3e96aece",
-  "timestamp": 1793873526788,
-  "sha256hash": "53c0f40d5a6d91d7508c67097d160586f8d8cf4eaacfb653574ff10dd1766b0d",
-  "logs": "## 1.0.7 \n\n -新增插件技能专家功能  \n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.0.8/dsh-for-oortcloud-work.exe",
+  "name": "1.0.8",
+  "version": "1.0.8",
+  "productVersion": "1.0.8.0",
+  "hash": "d5cf3ea22f1dcee9752e0ffc1d604f2a4f8daa0d",
+  "timestamp": 1794388452463,
+  "sha256hash": "31e471006a69d977e4bf808fbc79dfeb0a20491bd69f77bc8bc69425f862a51c",
+  "logs": "## 1.0.8 \n\n -新增切换租户 \n\n -新增IM本地机器人功能 \n\n -修复一些bug"
 }
