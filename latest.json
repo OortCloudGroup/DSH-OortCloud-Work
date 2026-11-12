@@ -6,5 +6,5 @@
   "hash": "2fdbbc8f8fdf166c2f49c8316022be614d3f4efb",
   "timestamp": 1794448111424,
   "sha256hash": "3fd49ca2b8f7cab2445cf5c98357adf2f896d1d468b38cc4ffc1688aa5c096ec",
-  "logs": "## 1.0.8 \n\n -新增切换租户 \n\n -新增IM本地机器人功能 \n\n -修复一些bug"
+  "logs": "## 1.0.9 \n\n -修复IM机器人在正式环境 的问题 \n\n -修复自动安装的报错问题（要在下个版本才能体现） \n\n -修复一些bug"
 }

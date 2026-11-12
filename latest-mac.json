@@ -1,11 +1,11 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.1.7/dsh-for-oortcloud-work.dmg",
-  "url-x64": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.1.7/dsh-for-oortcloud-work-x64.dmg",
-  "name": "1.1.7",
-  "version": "1.1.7",
-  "productVersion": "1.1.7.0",
-  "hash": "48f333bc6744aa60c666351007bbec4708a1401d",
-  "timestamp": 1793872699611,
-  "sha256hash": "aac620e50ca18978b723ea94539d8275299da36352976709febbbcd12f09ea1c",
-  "logs": "## 1.0.7 \n\n -新增插件技能专家功能  \n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.0.9/dsh-for-oortcloud-work.dmg",
+  "url-x64": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.0.9/dsh-for-oortcloud-work-x64.dmg",
+  "name": "1.0.9",
+  "version": "1.0.9",
+  "productVersion": "1.0.9.0",
+  "hash": "53406022803564745aba34425eaf4d3ee4afbc86",
+  "timestamp": 1794450548201,
+  "sha256hash": "c28cc65c298d2277f6d2241027c31b444ed65e95b2585d5d6e9c28d70ce8eb89",
+  "logs": "## 1.0.9 \n\n -修复IM机器人在正式环境 的问题 \n\n -修复自动安装的报错问题（要在下个版本才能体现） \n\n -修复一些bug"
 }
