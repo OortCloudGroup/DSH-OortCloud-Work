@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.0.9/dsh-for-oortcloud-work.exe",
-  "name": "1.0.9",
-  "version": "1.0.9",
-  "productVersion": "1.0.9.0",
-  "hash": "2fdbbc8f8fdf166c2f49c8316022be614d3f4efb",
-  "timestamp": 1794448111424,
-  "sha256hash": "3fd49ca2b8f7cab2445cf5c98357adf2f896d1d468b38cc4ffc1688aa5c096ec",
-  "logs": "## 1.0.9 \n\n -修复IM机器人在正式环境 的问题 \n\n -修复自动安装的报错问题（要在下个版本才能体现） \n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.1.0/dsh-for-oortcloud-work.exe",
+  "name": "1.1.0",
+  "version": "1.1.0",
+  "productVersion": "1.1.0.0",
+  "hash": "8a039d5c63d00cf8a1b8092032d75c9057696157",
+  "timestamp": 1794551081175,
+  "sha256hash": "b2e0270a533f1c095ad3117865a41d029a8fee367518d34fb7b7d946c17a8016",
+  "logs": "## 1.1.0 \n\n -支持IM账号绑定多台设备 \n\n -修复一些bug"
 }
