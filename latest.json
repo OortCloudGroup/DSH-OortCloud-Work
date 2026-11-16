@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.1.0/dsh-for-oortcloud-work.exe",
-  "name": "1.1.0",
-  "version": "1.1.0",
-  "productVersion": "1.1.0.0",
-  "hash": "8a039d5c63d00cf8a1b8092032d75c9057696157",
-  "timestamp": 1794551081175,
-  "sha256hash": "b2e0270a533f1c095ad3117865a41d029a8fee367518d34fb7b7d946c17a8016",
-  "logs": "## 1.1.0 \n\n -支持IM账号绑定多台设备 \n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.1.1/dsh-for-oortcloud-work.exe",
+  "name": "1.1.1",
+  "version": "1.1.1",
+  "productVersion": "1.1.1.0",
+  "hash": "217df1e280300f7a10d3c1a66b9c75cb3170c560",
+  "timestamp": 1794819024227,
+  "sha256hash": "62ce6f51d676be59d5394bf2ad4219e1503b50ac146cc2c3fdb8c0b8545f94c7",
+  "logs": "## 1.1.1 \n\n -修复单租户IM空白的bug \n\n -优化用量统计页面，新增统计排行 \n\n -修复一些bug"
 }
