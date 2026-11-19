@@ -1,11 +1,11 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.1.0/dsh-for-oortcloud-work.dmg",
-  "url-x64": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.1.0/dsh-for-oortcloud-work-x64.dmg",
-  "name": "1.1.0",
-  "version": "1.1.0",
-  "productVersion": "1.1.0.0",
-  "hash": "9fe84b068bcf971916a95567821b06f781736d4f",
-  "timestamp": 1794554650162,
-  "sha256hash": "0547300ff6def414461d471acf96458de9782493b07fe9a35c152a30e298799f",
-  "logs": "## 1.1.0 \n\n -支持IM账号绑定多台设备 \n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.1.2/dsh-for-oortcloud-work.dmg",
+  "url-x64": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.1.2/dsh-for-oortcloud-work-x64.dmg",
+  "name": "1.1.2",
+  "version": "1.1.2",
+  "productVersion": "1.1.2.0",
+  "hash": "402df0fe19fbc7ef32ccafc3d770f815f37d8c71",
+  "timestamp": 1795079334534,
+  "sha256hash": "49b81f3d450b7a0ee54eb14ef5bb205569d74601d0026b4ab419dddc119928b6",
+  "logs": "## 1.1.2 \n\n -新增环境源配置 \n\n -完善token排行榜（采集本地电脑的token) \n\n -新增场景切换 \n\n -修复一些bug"
 }
