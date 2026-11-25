@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.1.2/dsh-for-oortcloud-work.exe",
-  "name": "1.1.2",
-  "version": "1.1.2",
-  "productVersion": "1.1.2.0",
-  "hash": "ed7b1d4b147145a5cfba57452cc5517665dc9088",
-  "timestamp": 1795059777719,
-  "sha256hash": "71f74c27eda5a1e146707ec13c3880560d9b6c55b67547a0b41307b06ce8351e",
-  "logs": "## 1.1.2 \n\n -新增环境源配置 \n\n -完善token排行榜（采集本地电脑的token) \n\n -新增场景切换 \n\n -修复一些bug"
+  "url": "https://gitcode.com/OortCloudGroup/DSH-OortCloud-Work/releases/download/v1.1.3/dsh-for-oortcloud-work.exe",
+  "name": "1.1.3",
+  "version": "1.1.3",
+  "productVersion": "1.1.3.0",
+  "hash": "935015dbc0af64616783de9ee792e10f023fa082",
+  "timestamp": 1795570449488,
+  "sha256hash": "6284825dad1a44e14a9c44a855a962418a0aa3f8310445a5a394e28d7528c203",
+  "logs": "## 1.1.3 \n\n -完善机器人插件 \n\n -修复一些bug"
 }
